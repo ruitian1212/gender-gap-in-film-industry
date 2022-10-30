@@ -13,5 +13,5 @@ Visualizing the Gender Gap in the Film Industry via imdb Database.
 ## Final Output Web Illustration
 https://junkaiman.com/projects/gender-gap-in-film/demo/
 
-##Related Paper
+## Related Paper
 https://arxiv.org/abs/2207.06692
